@@ -2,24 +2,26 @@
 
 # EDA - Exploratory Data Analysis : menggunakan Python Function
 
-Deskripsi singkat mengenai proyek dan tujuan.
+Exploratory Data Analysis (EDA) adalah proses awal dalam analisis data yang bertujuan untuk memahami distribusi, pola, hubungan antar variabel, serta mengidentifikasi anomali atau outliers dalam dataset melalui penggunaan teknik statistik dan visualisasi seperti histogram, scatter plot, dan heatmap, sehingga memberikan wawasan awal yang membantu dalam pengambilan keputusan untuk analisis lebih lanjut atau pemodelan. Dan juga kita manggunakan bahasa yang ada dibawah ini
+
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
 ## Daftar Isi
-1. [Materi 1: Pendahuluan](#materi-1-pendahuluan)
-2. [Materi 2: Persiapan Lingkungan](#materi-2-persiapan-lingkungan)
-3. [Materi 3: Dasar Python](#materi-3-dasar-python)
-4. [Materi 4: Struktur Data Python](#materi-4-struktur-data-python)
-5. [Materi 5: Fungsi di Python](#materi-5-fungsi-di-python)
-6. [Materi 6: OOP di Python](#materi-6-oop-di-python)
-7. [Materi 7: Pemrosesan File](#materi-7-pemrosesan-file)
-8. [Materi 8: Visualisasi Data](#materi-8-visualisasi-data)
-9. [Materi 9: Penggunaan Library](#materi-9-penggunaan-library)
-10. [Materi 10: Proyek Akhir](#materi-10-proyek-akhir)
+1. [Load Data](#load-data)
+2. [Information About Dataset](#information-about-dataset)
+3. [Cek Nilai Duplicate](#cek-nilai-duplicate)
+4. [Vidualisasikan](#visualisasikan)
+5. [Null Values](#null-values)
+6. [Replace semua Null Values](#replace-semua-null-values )
+7. [Mengetahui Tipe Data](#mengetahui-tipe-data)
+8. [Filter Data](#filter-data)
+9. [Boxplot](#boxplot)
+10. [Correlation](#correlation)
 
 ---
 
-## Materi 1: Pendahuluan
-Penjelasan tentang apa itu Python dan kenapa kita menggunakan bahasa ini.
+## Load Data
+  Untuk Load data, file yang paling sering digunakan apalagi di kaggle.com adalah berformat csv. jadi disini saya mnenggunakan kode untuk menamppilkan data mmenggunakan format csv
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
